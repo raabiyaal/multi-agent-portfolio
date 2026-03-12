@@ -27,3 +27,15 @@ Technology, Healthcare, Energy, Financials, Real Estate, Consumer, Industrials, 
 1. Clone the repo
 2. Install dependencies
 ```bash
+   pip install openai yfinance pandas numpy matplotlib seaborn python-dotenv
+```
+3. Add your OpenAI API key to a `.env` file
+```
+   OPENAI_API_KEY=your-key-here
+```
+4. Run the notebook
+
+## View Without Running
+
+View the full notebook with all outputs here — no setup required:  
+[nbviewer.org/github/raabiyaal/multi-agent-portfolio](https://nbviewer.org/github/raabiyaal/multi-agent-portfolio/blob/main/AI-Agent.ipynb)
