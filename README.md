@@ -29,10 +29,6 @@ Synthesizes the market analysis and risk assessment alongside the full ETF unive
 
 For an aggressive 28-year-old with a 30-year horizon, the pipeline recommended a growth-heavy tech and equity allocation (XLK, QQQ, SMH, IYW) with minimal bond exposure. For a conservative 60-year-old focused on capital preservation, it shifted toward bond ETFs (BND, SGOV, BNDX) and stable income vehicles.
 
-## Sectors Covered
-
-Technology, Healthcare, Energy, Financials, Real Estate, Consumer Staples, Industrials, Bonds, International, ESG/Sustainable, Artificial Intelligence
-
 ## Tech Stack
 
 - Python
