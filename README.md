@@ -1,6 +1,6 @@
 # Multi-Agent ETF Portfolio Generator
 
-A multi-agent LLM pipeline that builds personalized ETF portfolios from real market data. Three specialized AI agents work sequentially — a market analyst, a risk assessor, and a portfolio constructor — each passing their output to the next to produce a final, investor-tailored allocation.
+A multi-agent LLM pipeline that builds personalized ETF portfolios from real market data. Three specialized AI agents work sequentially; a market analyst, a risk assessor, and a portfolio constructor - each passing their output to the next to produce a final, investor-tailored allocation.
 
 Built as a demonstration of agentic AI design applied to a real financial problem.
 
